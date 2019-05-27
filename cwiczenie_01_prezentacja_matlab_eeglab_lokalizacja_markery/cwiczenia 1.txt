@@ -1,0 +1,29 @@
+w matlabie
+
+ścieżka
+historia poleceń 
+
+macierz - kolumny wiersze wymiar
+macierz komorkowa {}
+struktura
+
+struktura danych smr eksportowanych z Spike2
+
+
+uruchmianie EEGlaba
+
+przykładowy dataset - struktura danych w EEGlabie
+
+Ładowwanie data do EEGlaba
+
+
+Okno EEGlaba - przeglądanie danych skala czasu, amplituda
+
+usówanie kanałów 8 i 9
+
+
+
+
+
+{tworzenie danych  do EEGlaba z danych z smr}
+
